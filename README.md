@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jeremiah Orians
+- 👀 I’m interested in bootstrapping the world
+- 💞️ I’m looking to collaborate on bootstrapping
+- 📫 How to reach me: join me on IRC on #bootstrappable@Libera.Chat
